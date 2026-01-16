@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm João Rosa Pires! 👋
 
-<!--
-**joaorosapires-civil/joaorosapires-civil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Civil Engineering Student @ Instituto Superior Técnico, Universidade de Lisboa
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a future Civil Engineer exploring how programming and automation can transform this industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- 🎓 3rd year Civil Engineering student at IST.
+- 💻 Learning **Python** via freeCodeCamp.
+- 📊 Leveraging **MATLAB** for structural analysis and data-driven engineering.
+
+### 🛠️ Tech Stack & Tools
+- **Engineering:** MATLAB, AutoCAD.
+- **Coding:** Python (In Progress).
